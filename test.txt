@@ -1,0 +1,20 @@
+php -S localhost:8000
+s - включает встроенный сервер
+
+http://localhost:8000/students.php
+http://localhost:8000/fo.php
+http://localhost:8000/professors.php
+http://localhost:8000/subjects.php
+http://localhost:8000/examen.php
+
+Форма ввода ФИО + выбор действия - http://localhost:8000/search_form.html
+
+Форма добавления fo + pers	- http://localhost:8000/insert_form.html
+
+Форма добавления subjects	http://localhost:8000/insert_subject.html
+
+Форма добавления examen	http://localhost:8000/insert_exam.html
+
+update_fo.html
+
+delete_fo.html
